@@ -1,20 +1,20 @@
-var a, b; 
+
 //define function add()
 function add(a,b){
     return a+b;
 }
 
 // Define function substract
-function subtract(){
+function subtract(a,b){
     return a-b;
 }
 
 // Define multiply()
-function multiply(){
+function multiply(a,b){
     return a*b;
 }
 
 // Define function divide()
-function divide() {
+function divide(a,b) {
     return a/b;
 }
