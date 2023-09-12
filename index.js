@@ -34,3 +34,9 @@ function makeInt(n) {
     let num = parseInt(n,10);
     return num;
 }
+
+// Define function to preserve the decimal
+function preserveDecimal(n) {
+    let num = parseFloat(n);
+    return num;
+}
