@@ -18,3 +18,8 @@ function multiply(a,b){
 function divide(a,b) {
     return a/b;
 }
+
+// Define increment function
+function increment(n) {
+    return n+=1;
+}
