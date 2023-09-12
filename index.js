@@ -23,3 +23,14 @@ function divide(a,b) {
 function increment(n) {
     return n+=1;
 }
+
+// Define decrement function
+function decrement(n) {
+    return n-=1;
+}
+
+// Define a function to parse the string into integer
+function makeInt(n) {
+    let num = parseInt(n,10);
+    return num;
+}
